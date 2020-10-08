@@ -1,8 +1,6 @@
-#include <stdio.h>/*---------decclaring library---------*/
+#include <stdio.h> //Declaring what library's funcions this program is using
 
-int main()/*-------------decalaring as a main function of program----------*/
+int main() //Declaring the main function of the program
 {
-    /*-------------printing hello world-----------*/
-    printf("Hello World!")
-    return 0 ; 
+    printf("Hello, world!"); //Using the printf function to print "Hello, world!"
 }
