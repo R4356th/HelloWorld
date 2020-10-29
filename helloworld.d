@@ -1,6 +1,6 @@
 import std.stdio;
 
 int main(string[] args) {
-  writeln("Hello World");
+  writeln("Hello, world");
   return 0;
 }
