@@ -1,5 +1,4 @@
 [![Total alerts](https://img.shields.io/lgtm/alerts/g/R4356th/HelloWorld.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/R4356th/HelloWorld/alerts/)
-[![Language grade: Go](https://img.shields.io/lgtm/grade/go/g/R4356th/HelloWorld.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/R4356th/HelloWorld/context:go)
 [![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/R4356th/HelloWorld.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/R4356th/HelloWorld/context:python)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/R4356th/HelloWorld.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/R4356th/HelloWorld/context:javascript)
 # Hello World!
